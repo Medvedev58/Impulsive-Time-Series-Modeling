@@ -3,7 +3,7 @@
 
 
 %% Data generation parameters
-n_datasets=100; % number of synthetic datasets
+n_datasets=30; % number of synthetic datasets
 
 n_impulses=3; % number of impulses in generated data
 min_impulse=0.4; % smallest impulse weight
