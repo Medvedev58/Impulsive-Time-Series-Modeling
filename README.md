@@ -1,7 +1,7 @@
 # Impulsive-Time-Series-Modeling
 Code for parameter and input estimation according to the article with the same name.
 
-## Authora
+## Authors
 * Håkan Runvik (hakan.runvik 'at' it.uu.se),
 * Alexander Medvedev (alexander.medvedev 'at' it.uu.se)
 
