@@ -1,8 +1,6 @@
 %B1B2INPUTESTIMATIONDEMO demonstrates estimation of both parameters and
 %   input impulses from synthetic data
 
-%
-% b1=1.1777 b2=1.7152 dSeq = [2.3243    7.2044; 3.9014    2.0324]
 %% Data
 y = [0.0015 0.0047 0.0015 0.0022 -0.0068 0.5278 0.9905 0.8557 0.5973 0.3880...
     0.2338 0.1367 0.0756 0.0464 0.0342 0.4013 0.5218 0.4222 0.2786 0.1744...
