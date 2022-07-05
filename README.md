@@ -12,5 +12,5 @@ Basic examples demonstrating the estimation algorithms.
 Estimation of parameters b1 and b2 from synthetic data using least squares approach and MCMC. Corresponds to the experiment in Section 3.1 in the article.
 
 ## b1b2InputEstimationDemo.m
-Estimation of b1, b2 and inpulsive input using least squares approach. Synthetic data is used since we do not own the clinical data used in the article.
+Estimation of b1, b2 and impulsive input using least squares approach. Synthetic data is used since we do not own the clinical data used in the article.
 
